@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+gradio
+PyYAML
+numpy
+
+TO INSTALL PYTORCH
+try:
+python -m venv C:\pytorch_env
+C:\pytorch_env\Scripts\activate
+pip install torch torchvision torchaudio
